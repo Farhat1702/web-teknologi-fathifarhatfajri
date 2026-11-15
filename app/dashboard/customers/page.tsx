@@ -1,0 +1,7 @@
+export default function Page() {
+  return (
+    <main>
+      <h1 className="text-2xl font-bold">Customers Page</h1>
+    </main>
+  );
+}
